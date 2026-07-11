@@ -1,0 +1,13 @@
+{
+  "background_color": "hsl(214, 17%, 8%)",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "CalTrack Pro",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "CalTrack",
+  "start_url": "/",
+  "theme_color": "hsv(174, 63%, 82%)",
+  "lang": "en",
+  "id": "Je"
+}
